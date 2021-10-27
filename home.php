@@ -10,5 +10,13 @@
 	https://min-api.cryptocompare.com/data/v2/histohour?fsym=BTC&tsym=USD&limit=20&toTs=-1&api_key=YOURKEYHERE <br>
 	https://min-api.cryptocompare.com/data/v2/histohour?fsym=ETH&tsym=USD&limit=20&toTs=-1&api_key=YOURKEYHERE <br>
 	';
+	
+	$me ='
+		<br> Relevant links: <br>
+		https://github.com/winsor-tse <br>
+		
+	
+	';
+	
 	include 'Template.php';
  ?>

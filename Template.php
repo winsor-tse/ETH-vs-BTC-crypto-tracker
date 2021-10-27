@@ -65,6 +65,9 @@
 						echo 'You want to buy from '. $buy . ' difference is: $<b>' . $diff1 .'</b><br>';
 						echo 'You want to sell from '. $sell . ' difference is: -$<b>' . $diff2 .'</b><br>';
 					}
+					if($_GET['name']=="home"){
+						echo 'About me: <br>'. $me;
+					}
 				?>
 			</div>
             

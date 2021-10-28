@@ -7,7 +7,8 @@
     </head>
     <body>
         <div id="wrapper">
-            <div id="banner">             
+            <div id="banner">
+				<p> Crypto currency comparison </p>
             </div>
             
             <nav id="navigation">

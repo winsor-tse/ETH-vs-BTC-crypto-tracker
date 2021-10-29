@@ -15,6 +15,10 @@ Step 5: path to a local host so the website can run:
 `<link>` 'http://localhost/cryptotracker/home.php?name=home
 >Note: links to the about page
 
+This is how the page would look like:
+
+![website](https://user-images.githubusercontent.com/89112285/139470708-3b12d2fd-7d86-484a-bbfd-8640b59914da.PNG)
+
 ### Features and technology used:
 
 - Uses php, html, css, javascript to create a live website that tracks data from two apis

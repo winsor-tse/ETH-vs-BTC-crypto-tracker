@@ -1,4 +1,4 @@
-##Detailed instructions on how to build and run
+## Detailed instructions on how to build and run
 Step 1: download XAMPP for a live web server
 `<link>`  https://www.apachefriends.org/index.html
 

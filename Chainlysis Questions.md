@@ -20,7 +20,4 @@ Some testing would be required such as load testing to see how many users would 
 
 #### What are some other enhancements you would have made, if you had more time to do this implementation
 
-- Furthermore, including a sql database that holds the previous values for the api data could be implementated using a chart on the website. In the same sense we can use the sql database
-for feedback on the website. Also, including dynamic user interface such as interactable cards for eth and btc along with a more colorful website. Along with a better api, I would also 
-include an auto refresher every 5 seconds instead of a manual refresh. For example, setInterval() or setTimeout() in React.js would work. To further compare crypto currency, I would also
-implement more data from api's and cacluate the difference in the opening and closing values.
+- Furthermore, including a sql database that holds the previous values for the api data could be implementated using a chart on the website. In the same sense we can use the sql database for feedback on the website. Also, including dynamic user interface such as interactable cards for eth and btc along with a more colorful website. Along with a better api, I would also include an auto refresher every 5 seconds instead of a manual refresh. For example, setInterval() or setTimeout() in React.js would work. I would build a live version of this comparison if given time, what i would do is buy a domain name for the website and upload the files needed.

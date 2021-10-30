@@ -13,10 +13,11 @@ Also, including the about tab for the website is not needed but it is useful to 
 #### If you have to scale your solution to 100 users/second traffic what changes would you make, if any?
 
 - To scale my solution to 100 users/seconds traffic, the api's used along with the server host for the website would need to be built based on that traffic.
-Essentially, the api would need to be able to handle 100 users clicking and most api's unless its paid for would not be able to handle that. Furthermore, to handles
-traffic I would include some kind of cyber security and maybe a log in system. AN example could be an implementation of a reCAPTCHA to prevent bots or unwanted traffic.
-This would be included because it would be easy to overload the website too many request.
-Some testing would be required such as load testing to see how many users would be able to enter the website.
+Essentially, the api would need to be able to handle 100 users clicking and most api's unless its paid for ( or for professional usage) would not be able to handle that. 
+- Furthermore, to handles
+traffic I would include some kind of cyber security and maybe a log in system. An example could be an implementation of a reCAPTCHA to prevent bots or unwanted traffic.
+The kind of cyber security needs to be included because it would be easy to overload the website too many request. With out such prevention, DDOS attacks with upwards to 275,000 Requests/second therefore verifying that the user is human is needed.
+- Also, some testing would be required such as load testing to see how many users would be able to enter the website. Once we determine that it can not handle 100 user/second ther website needs to be scaled 
 
 #### What are some other enhancements you would have made, if you had more time to do this implementation
 

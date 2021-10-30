@@ -17,7 +17,7 @@ Step 4: Make sure to open and run xampp, click on/start apache service
 
 Step 5: path to a local host so the website can run:
 
-[path](http://localhost/cryptotracker/home.php?name=home)
+http://localhost/cryptotracker/home.php?name=home
 
 >Note: links to the about page
 

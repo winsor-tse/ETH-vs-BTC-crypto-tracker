@@ -8,8 +8,8 @@ Step 2: Download all files from repository and place them into a folder called c
 
 Step 3: Put all files here inside the folder for xampp\htdocs:
 > C:\xampp\htdocs\cryptotracker
-> Note:
-> Does not matter what the folder name is. Just create a folder inside the xampp htdocs
+Note:
+Does not matter what the folder name is. Just create a folder inside the xampp htdocs
 
 Step 4: Make sure to open and run xampp, click on/start apache service
 

@@ -2,7 +2,7 @@
 
 - One of my sub optimal choices was decicing to use php instead of react.js to parse through the cryptocompare and Messari API. 
 I chose to do this because the current new version of React.js has a problem where it does not generate the webpage when compiled.
-Another sub optimal choice is deciding to use the messari api. This is because this api does not update very often, it only updates every hour. 
+- Another sub optimal choice is deciding to use the messari api. This is because this api does not update very often, it only updates every hour. 
 Therefore it is not very reliable when checking for cryptocurrency prices.
 
 #### Is any part of it over-designed? ( It is fine to over-design to showcase your skills as long as you are clear about it)
@@ -21,4 +21,6 @@ The kind of cyber security needs to be included because it would be easy to over
 
 #### What are some other enhancements you would have made, if you had more time to do this implementation
 
-- Furthermore, including a sql database that holds the previous values for the api data could be implementated using a chart on the website. In the same sense we can use the sql database for feedback on the website. Also, including dynamic user interface such as interactable cards for eth and btc along with a more colorful website. Along with a better api, I would also include an auto refresher every 5 seconds instead of a manual refresh. For example, setInterval() or setTimeout() in React.js would work. I would build a live version of this comparison if given time, what i would do is buy a domain name for the website and upload the files needed.
+- Furthermore, including a sql database that holds the previous values for the api data could be implementated using a chart on the website. In the same sense we can use the sql database for feedback on the website. Also, including dynamic user interface such as interactable cards for eth and btc along with a more colorful website. 
+- I would include an SQL database because it could be used to tackle cyber crime and make the website more robust. The data that is recieved can be used to track previous prices to mapping the prices out on the website thus it would be useful for the users.
+- Along with a better api, I would also include an auto refresher every 5 seconds instead of a manual refresh. For example, setInterval() or setTimeout() in React.js would work. I would build a live version of this comparison if given time, what i would do is buy a domain name for the website and upload the files needed.

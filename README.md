@@ -19,7 +19,8 @@ Step 5: path to a local host so the website can run:
 
 http://localhost/cryptotracker/home.php?name=home
 
->Note: links to the about page
+Note that there needs to be a tag like ?name=home because that is the home page
+if it is just /home.php nothing will show up because it is not the home page.
 
 This is how the page would look like:
 

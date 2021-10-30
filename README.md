@@ -12,7 +12,7 @@ Step 3: Put all files here inside the folder for xampp\htdocs:
 Step 4: Make sure to open and run xampp, click on/start apache service
 
 Step 5: path to a local host so the website can run:
-`<link>` 'http://localhost/cryptotracker/home.php?name=home
+`<link>` http://localhost/cryptotracker/home.php?name=home
 >Note: links to the about page
 
 This is how the page would look like:
